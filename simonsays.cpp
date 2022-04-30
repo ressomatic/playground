@@ -1,7 +1,9 @@
+//XAMK project - Teemu Koivuniemi & Krista Pesonen
+
 #include <IRremote.hpp>
 // KOMMENTIT ON KIRJOITETTU AINOASTAAN, JOTTA KIMMON MIELENTERVEYS SÄILYY!!!
 //Comments written only for teacher's sanity (says Teemu)
-//Krista does not agree, Krist likes comments.
+//Krista does not agree, Krista likes comments.
  
 int IR_RECEIVE_PIN = 5; //arduino pin 5
 bool CONTINUE = true;
